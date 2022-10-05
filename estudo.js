@@ -16,3 +16,20 @@ function escreva(){
     document.write("Feito por" + nome);
 }
 
+function minhaTabuada(){
+    for(let i; i <= 10; i++){
+        document.write(i + " x " + j + " = "+(j*i)+"<br>");
+        for(let j = 1; j <= 10; j++){
+            document.write(i + " x " + j + " = "+(j*i)+ "<br>");
+        }
+        document.write("<br");
+    }
+
+    }
+    function quadrado(){}
+     for(let i = 1; i <= 20; i++){
+        document.write("O quadrado de " + i + " é " + (i*i)+ "<br>"); 
+
+     }
+
+  
