@@ -1,0 +1,22 @@
+.calculadora{
+    background: (rgb(0,38, 255);
+    color: rosybrown;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.calculadora input{
+    background: rgb(hsl(0, 0%, 0%);
+    color: rgb(251, 255,0);
+    border-radius: 8px;
+    padding: 8px; 
+}
+#sptotal {
+    background: saddlebrown;
+    color: saddlebrown;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
