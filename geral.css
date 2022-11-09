@@ -1,42 +1,56 @@
 .calculadora {
-    background: rgb(87, 85, 85);
-    color: black;
+    background: rgb(48, 32, 32);
+    color: rgb(255, 255, 255);
     width: 200px;
     padding: 10px;
     border-radius: 15px;
     text-align: center;
 }
 .calculadora input {
-background:rgb(129, 235, 129);
+background:rgb(4, 250, 197);
 color: black;
 border-radius: 9px;
 padding: 5px;
 }
+.calculadora button
+back
 #sptotal {
     background: rgb(99, 201, 113);
     color: black;
     border-radius: 8px;
     padding: 4px;
     margin-bottom: 10px;
+    
 }
-.calculadora button{
+.calculadora button {
 margin-top: 10px;
-background: rgb(83, 51, 8);
-color: white;
-padding: 5px 20px;
-border: none;
+background: rgb(207, 2, 248);
+color: black;
+padding: 3px 13px;
+
 }
 .calculadora button:hover {
-    background: rgb(206, 651, 112);
-    color: rgb(0, 0, 0);
+    background: rgb(253, 5, 121);
+    color: black;
     cursor: pointer;
 }
-.spListaMeses {
+#splistameses {
     text-align: start;
-    border-style: dotted;
-    border-color: yellow;
+    border-style:groove;
+    border-color: rgb(255, 255, 255);
+    border-width: 10px;
+    color: rgb(0, 0, 0);
+    background: rgb(117, 238, 125);
+    margin-top: 20px;
+}
+#splistameses {
+    background: rgb(189, 125, 125);
+    color: beige;
+    text-align: rgb(75, 29, 37);
+    margin-top: 10px;
+    border-radius: 10px;
+
+    border-color: rgb(2, 2, 97);
     border-width: 1px;
-    color: red;
-    background: white;
-    font-size: 10px;
+    border-style: dotted;
 }
